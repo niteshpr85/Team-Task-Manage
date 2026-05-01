@@ -2,6 +2,12 @@
 
 A full-stack web application for managing team tasks with role-based access control. Built with Next.js, SQLite, and NextAuth.js.
 
+<img width="1918" height="892" alt="Screenshot 2026-05-01 000017" src="https://github.com/user-attachments/assets/218bc6e3-9125-4911-9b1a-fde58a4c4bc4" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-30 235504" src="https://github.com/user-attachments/assets/246342a8-71e4-4db8-ae5d-b4f27ba81223" />
+
+
+
 ## Features
 
 - **User Authentication**: Sign up and login with role-based access (Admin/Member)
