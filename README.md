@@ -100,13 +100,6 @@ The application uses SQLite and will automatically create the database file (`da
    - `NEXTAUTH_URL` (your Railway URL)
 3. Deploy automatically on push
 
-### Other Platforms
-
-The app can be deployed to any platform supporting Node.js:
-- Vercel
-- Netlify
-- Heroku
-- DigitalOcean App Platform
 
 Make sure to set the environment variables and ensure SQLite write permissions.
 
