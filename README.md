@@ -159,17 +159,7 @@ MIT License
 - The first registered user can be assigned the `admin` role by editing the database directly or through an admin flow.
 - `better-sqlite3` is used for fast, server-side SQLite access in Next.js route handlers.
 
-## Recent Updates
 
-### Bug Fixes (May 2025)
-
-1. **Dashboard Text Visibility**: Fixed text visibility issues on the dashboard page by ensuring all text elements use black color (`text-black`) for better readability on all background colors.
-
-2. **Task Completion Confirmation**: Added a confirmation dialog when members try to mark tasks as "Done". This prevents accidental status changes - members must confirm before the task moves to Done.
-
-3. **Admin Task Visibility**: Fixed an issue where admins couldn't see tasks completed by members. Now:
-   - **Admins** can view ALL tasks in the system
-   - **Members** can view tasks assigned to them, in projects they're members of, or in projects they created
 
 ### Demo Accounts
 
